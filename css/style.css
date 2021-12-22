@@ -17,3 +17,12 @@ a:link{
     font-style:italic ;
     font-size: 20px;;
 }
+
+#form{
+    width:700px;
+    height: 700px;
+}
+
+#contact{
+    margin-top: -233px;
+}
