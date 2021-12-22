@@ -1,0 +1,19 @@
+h1{
+    color: #108a86;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border-radius: 10%;
+}
+
+.container{
+    margin-top: 5px;
+}
+
+a:link{
+    background-color: rgb(196, 240, 225);
+    font-style:italic ;
+    font-size: 20px;;
+}
